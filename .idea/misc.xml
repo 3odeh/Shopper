@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/3odeh/Desktop/getHub/android/Shoper/app/src/main/res/drawable/custom_btn_check.xml" value="0.29" />
+        <entry key="..\:/Users/3odeh/Desktop/getHub/android/Shoper/app/src/main/res/drawable/custom_cv_item.xml" value="0.29" />
+        <entry key="..\:/Users/3odeh/Desktop/getHub/android/Shoper/app/src/main/res/drawable/custom_item_bg.xml" value="0.29" />
+        <entry key="..\:/Users/3odeh/Desktop/getHub/android/Shoper/app/src/main/res/drawable/custom_item_btn.xml" value="0.29" />
+        <entry key="..\:/Users/3odeh/Desktop/getHub/android/Shoper/app/src/main/res/drawable/custom_tv.xml" value="0.29" />
+        <entry key="..\:/Users/3odeh/Desktop/getHub/android/Shoper/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.29" />
+        <entry key="..\:/Users/3odeh/Desktop/getHub/android/Shoper/app/src/main/res/layout/activity_item.xml" value="0.24625908507909364" />
+        <entry key="..\:/Users/3odeh/Desktop/getHub/android/Shoper/app/src/main/res/layout/activity_login.xml" value="0.14878153056861906" />
+        <entry key="..\:/Users/3odeh/Desktop/getHub/android/Shoper/app/src/main/res/layout/activity_main.xml" value="0.1658828559213339" />
+        <entry key="..\:/Users/3odeh/Desktop/getHub/android/Shoper/app/src/main/res/layout/custom_home_rv_item.xml" value="0.24625908507909364" />
+        <entry key="..\:/Users/3odeh/Desktop/getHub/android/Shoper/app/src/main/res/layout/custom_item_rv_cart.xml" value="0.24625908507909364" />
+        <entry key="..\:/Users/3odeh/Desktop/getHub/android/Shoper/app/src/main/res/layout/dialog_progress.xml" value="0.1658828559213339" />
+        <entry key="..\:/barmajeh/android/Shoper/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2105" />
+        <entry key="..\:/barmajeh/android/Shoper/app/src/main/res/drawable/App_icon_foreground.xml" value="0.2095" />
+        <entry key="..\:/barmajeh/android/Shoper/app/src/main/res/drawable/app_icon.xml" value="0.2095" />
+        <entry key="..\:/barmajeh/android/Shoper/app/src/main/res/drawable/app_icon_foreground.xml" value="0.1025" />
+        <entry key="..\:/barmajeh/android/Shoper/app/src/main/res/drawable/custom_btn_check.xml" value="0.2225" />
+        <entry key="..\:/barmajeh/android/Shoper/app/src/main/res/drawable/custom_check.xml" value="0.2225" />
+        <entry key="..\:/barmajeh/android/Shoper/app/src/main/res/drawable/custom_cv_item.xml" value="0.2105" />
+        <entry key="..\:/barmajeh/android/Shoper/app/src/main/res/drawable/custom_item_bg.xml" value="0.1975" />
+        <entry key="..\:/barmajeh/android/Shoper/app/src/main/res/drawable/custom_item_btn.xml" value="0.1975" />
+        <entry key="..\:/barmajeh/android/Shoper/app/src/main/res/drawable/custom_item_chips.xml" value="0.1975" />
+        <entry key="..\:/barmajeh/android/Shoper/app/src/main/res/drawable/custom_tv.xml" value="0.182" />
+        <entry key="..\:/barmajeh/android/Shoper/app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" value="0.2105" />
+        <entry key="..\:/barmajeh/android/Shoper/app/src/main/res/drawable/ic_baseline_minimize_24.xml" value="0.2225" />
+        <entry key="..\:/barmajeh/android/Shoper/app/src/main/res/drawable/ic_check.xml" value="0.2225" />
+        <entry key="..\:/barmajeh/android/Shoper/app/src/main/res/drawable/ic_circled_s.xml" value="0.2195" />
+        <entry key="..\:/barmajeh/android/Shoper/app/src/main/res/drawable/ic_favorite.xml" value="0.2105" />
+        <entry key="..\:/barmajeh/android/Shoper/app/src/main/res/drawable/ic_favorite_checkable.xml" value="0.2105" />
+        <entry key="..\:/barmajeh/android/Shoper/app/src/main/res/drawable/ic_icons8_circled_s_50.xml" value="0.2195" />
+        <entry key="..\:/barmajeh/android/Shoper/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2105" />
+        <entry key="..\:/barmajeh/android/Shoper/app/src/main/res/drawable/ic_letter_l_2.xml" value="0.1975" />
+        <entry key="..\:/barmajeh/android/Shoper/app/src/main/res/drawable/ic_letter_m.xml" value="0.1975" />
+        <entry key="..\:/barmajeh/android/Shoper/app/src/main/res/drawable/ic_letter_s.xml" value="0.1975" />
+        <entry key="..\:/barmajeh/android/Shoper/app/src/main/res/drawable/ic_love.xml" value="0.1905" />
+        <entry key="..\:/barmajeh/android/Shoper/app/src/main/res/drawable/ic_menu.xml" value="0.1905" />
+        <entry key="..\:/barmajeh/android/Shoper/app/src/main/res/drawable/ic_notcheck.xml" value="0.2225" />
+        <entry key="..\:/barmajeh/android/Shoper/app/src/main/res/drawable/ic_shopping_cart.xml" value="0.2195" />
+        <entry key="..\:/barmajeh/android/Shoper/app/src/main/res/drawable/icon_app.xml" value="0.2095" />
+        <entry key="..\:/barmajeh/android/Shoper/app/src/main/res/layout/activity_cart.xml" value="0.3180846515604959" />
+        <entry key="..\:/barmajeh/android/Shoper/app/src/main/res/layout/activity_home.xml" value="0.3378623188405797" />
+        <entry key="..\:/barmajeh/android/Shoper/app/src/main/res/layout/activity_item.xml" value="0.3179347826086957" />
+        <entry key="..\:/barmajeh/android/Shoper/app/src/main/res/layout/activity_login.xml" value="0.3378623188405797" />
+        <entry key="..\:/barmajeh/android/Shoper/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/barmajeh/android/Shoper/app/src/main/res/layout/asd.xml" value="0.5" />
+        <entry key="..\:/barmajeh/android/Shoper/app/src/main/res/layout/custom_home_rv_Categore.xml" value="0.3383152173913043" />
+        <entry key="..\:/barmajeh/android/Shoper/app/src/main/res/layout/custom_home_rv_categore.xml" value="0.3220108695652174" />
+        <entry key="..\:/barmajeh/android/Shoper/app/src/main/res/layout/custom_home_rv_category.xml" value="0.3383152173913043" />
+        <entry key="..\:/barmajeh/android/Shoper/app/src/main/res/layout/custom_home_rv_item.xml" value="0.33" />
+        <entry key="..\:/barmajeh/android/Shoper/app/src/main/res/layout/custom_item_rv_cart.xml" value="0.3180846515604959" />
+        <entry key="..\:/barmajeh/android/Shoper/app/src/main/res/layout/custom_item_rv_photo.xml" value="0.3138586956521739" />
+        <entry key="..\:/barmajeh/android/Shoper/app/src/main/res/layout/custom_toolbar.xml" value="0.3120471014492754" />
+        <entry key="..\:/barmajeh/android/Shoper/app/src/main/res/layout/dialog_progress.xml" value="0.33" />
+        <entry key="..\:/barmajeh/android/Shoper/app/src/main/res/layout/fragment_item_photo.xml" value="0.3138586956521739" />
+        <entry key="..\:/barmajeh/android/Shoper/app/src/main/res/layout/fragment_login.xml" value="0.3378623188405797" />
+        <entry key="..\:/barmajeh/android/Shoper/app/src/main/res/layout/header_navigation_drawer_home.xml" value="0.3138586956521739" />
+        <entry key="..\:/barmajeh/android/Shoper/app/src/main/res/menu/menu_cart.xml" value="0.3180846515604959" />
+        <entry key="..\:/barmajeh/android/Shoper/app/src/main/res/menu/menu_home.xml" value="0.3875" />
+        <entry key="..\:/barmajeh/android/Shoper/app/src/main/res/menu/menu_item.xml" value="0.38229166666666664" />
+        <entry key="..\:/barmajeh/android/Shoper/app/src/main/res/menu/nenu_cart.xml" value="0.3180846515604959" />
+        <entry key="..\:/barmajeh/android/Shoper/app/src/main/res/mipmap-anydpi-v26/App_icon.xml" value="0.1025" />
+        <entry key="..\:/barmajeh/coding/android/Shoper/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1895" />
+        <entry key="..\:/barmajeh/coding/android/Shoper/app/src/main/res/layout/activity_login.xml" value="0.75" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
