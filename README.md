@@ -57,4 +57,7 @@ Contributions to the Shopper App are welcome! If you would like to contribute, p
 4. Commit and push your changes to your forked repository.
 5. Submit a pull request, explaining the changes you've made and their purpose.
 
+## Note
+Please note that the development of this application has been discontinued. As a result, there are some features that do not work, such as the add to cart feature and the wish list
+
 Thank you for considering the Shopper App!
